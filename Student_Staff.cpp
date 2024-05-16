@@ -1,8 +1,3 @@
-// Group Members:
-// Kevin Mandiouba (ID: 40243497)
-// Joyal Biju Kulangara (ID: 40237314)
-// Assignment 5
-
 #include "Student_Staff.h"
 #include "Student.h"
 #include "Staff.h"
