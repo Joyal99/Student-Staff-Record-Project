@@ -1,8 +1,3 @@
-// Group Members:
-// Kevin Mandiouba (ID: 40243497)
-// Joyal Biju Kulangara (ID: 40237314)
-// Assignment 5
-
 #include "Student.h"
 #include <iostream>
 #include <string>
@@ -126,7 +121,7 @@ void Student::Input_Std_info() {
 	cin >> Start_year;
 	cout << "Completed credit: ";
 	cin >> Completed_credit;
-	cout << "Program (B: bachelor, M : master’s, P : Ph.D.): ";
+	cout << "Program (B: bachelor, M : masterâ€™s, P : Ph.D.): ";
 	cin >> Program;
 }
 
